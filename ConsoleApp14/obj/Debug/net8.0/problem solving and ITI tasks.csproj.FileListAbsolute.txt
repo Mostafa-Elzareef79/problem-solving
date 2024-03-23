@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\net8.0\problem solving and ITI tasks.exe
+C:\Users\dell\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\net8.0\problem solving and ITI tasks.deps.json
+C:\Users\dell\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\net8.0\problem solving and ITI tasks.runtimeconfig.json
+C:\Users\dell\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\net8.0\problem solving and ITI tasks.dll
+C:\Users\dell\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\net8.0\problem solving and ITI tasks.pdb
+C:\Users\dell\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net8.0\problem solving and ITI tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net8.0\problem solving and ITI tasks.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net8.0\problem solving and ITI tasks.AssemblyInfo.cs
+C:\Users\dell\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net8.0\problem solving and ITI tasks.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net8.0\problem solving and ITI tasks.sourcelink.json
+C:\Users\dell\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net8.0\problem solving and ITI tasks.dll
+C:\Users\dell\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net8.0\refint\problem solving and ITI tasks.dll
+C:\Users\dell\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net8.0\problem solving and ITI tasks.pdb
+C:\Users\dell\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net8.0\problem solving and ITI tasks.genruntimeconfig.cache
+C:\Users\dell\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net8.0\ref\problem solving and ITI tasks.dll
